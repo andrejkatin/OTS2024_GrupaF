@@ -1,5 +1,5 @@
 ﻿
-namespace OTS2023_GrupaE
+namespace OTS2026_GrupaF
 {
     class GameController
     {

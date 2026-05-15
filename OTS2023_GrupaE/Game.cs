@@ -1,9 +1,9 @@
 ﻿
 
-using OTS2023_GrupaE.Exceptions;
-using OTS2023_GrupaE.Models;
+using OTS2026_GrupaF.Exceptions;
+using OTS2026_GrupaF.Models;
 
-namespace OTS2023_GrupaE
+namespace OTS2026_GrupaF
 {
 
     public enum Move

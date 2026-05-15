@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OTS2023_GrupaE.Exceptions
+namespace OTS2026_GrupaF.Exceptions
 {
     public class InvalidPlayerPositionException: Exception
     {

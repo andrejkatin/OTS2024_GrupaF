@@ -2,7 +2,7 @@
 
 using System;
 
-namespace OTS2023_GrupaE.Models
+namespace OTS2026_GrupaF.Models
 {
     public class Position
     {
